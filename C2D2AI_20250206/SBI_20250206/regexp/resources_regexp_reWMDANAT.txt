@@ -1,0 +1,3 @@
+small.+ vessel
+microvascular
+small.+ (\S+\s+){0,3}vessel
