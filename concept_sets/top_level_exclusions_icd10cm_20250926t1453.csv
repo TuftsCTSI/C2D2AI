@@ -1,0 +1,23 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,invalid_reason,concept_group
+35207821,"Cerebral infarction, unspecified",Condition,ICD10CM,4-char billing code,,I63.9,,stroke
+35207812,Nontraumatic intracerebral hemorrhage in cerebellum,Condition,ICD10CM,4-char billing code,,I61.4,,stroke
+45576200,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",Observation,ICD10CM,5-char billing code,,Z86.73,,stroke
+1595597,Other cerebral infarction due to occlusion or stenosis of small artery,Condition,ICD10CM,5-char billing code,,I63.81,,stroke
+45552806,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,Condition,ICD10CM,5-char billing code,,I63.50,,stroke
+35207818,"Nontraumatic intracranial hemorrhage, unspecified",Condition,ICD10CM,4-char billing code,,I62.9,,stroke
+45543189,Cerebral infarction due to thrombosis of left cerebellar artery,Condition,ICD10CM,6-char billing code,,I63.342,,stroke
+35207816,"Nontraumatic intracerebral hemorrhage, unspecified",Condition,ICD10CM,4-char billing code,,I61.9,,stroke
+45567188,Cerebral infarction due to thrombosis of left middle cerebral artery,Condition,ICD10CM,6-char billing code,,I63.312,,stroke
+45586594,Cerebral infarction due to embolism of left middle cerebral artery,Condition,ICD10CM,6-char billing code,,I63.412,,stroke
+37200506,Cerebral infarction due to embolism of bilateral middle cerebral arteries,Condition,ICD10CM,6-char billing code,,I63.413,,stroke
+45548027,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,Condition,ICD10CM,5-char billing code,,I63.29,,stroke
+45552803,Cerebral infarction due to embolism of unspecified cerebral artery,Condition,ICD10CM,5-char billing code,,I63.40,,stroke
+45543187,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery,Condition,ICD10CM,6-char billing code,,I63.239,,stroke
+35207399,"Transient cerebral ischemic attack, unspecified",Condition,ICD10CM,4-char billing code,,G45.9,,stroke
+45572111,Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side,Condition,ICD10CM,6-char billing code,,I69.359,,neurological_deficit_due_to_stroke
+45591489,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,Condition,ICD10CM,6-char billing code,,I69.351,,neurological_deficit_due_to_stroke
+45572111,Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side,Condition,ICD10CM,6-char billing code,,I69.359,,neurological_deficit_due_to_stroke
+45533479,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,Condition,ICD10CM,6-char billing code,,I69.354,,neurological_deficit_due_to_stroke
+45548047,Aphasia following cerebral infarction,Condition,ICD10CM,6-char billing code,,I69.320,,neurological_deficit_due_to_stroke
+35207357,Alzheimer's disease with late onset,Condition,ICD10CM,4-char billing code,,G30.1,,dementia
+45591076,"Dementia in other diseases classified elsewhere, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety",Condition,ICD10CM,5-char billing code,,F02.80,,dementia

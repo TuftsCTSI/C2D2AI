@@ -1,0 +1,19 @@
+concept_id,concept_name,domain_id,vocabulary_id,concept_class_id,standard_concept,concept_code,invalid_reason,concept_group
+43530742,Paralytic syndrome on one side of the body as late effect of cerebrovascular accident,Condition,SNOMED,Disorder,S,361000119103,,exclusions
+4110192,Cerebral infarction due to thrombosis of cerebral arteries,Condition,SNOMED,Disorder,S,195189003,,exclusions
+40480002,Aphasia as late effect of cerebrovascular disease,Condition,SNOMED,Disorder,S,441630004,,exclusions
+443454,Cerebral infarction,Condition,SNOMED,Disorder,S,432504007,,exclusions
+373503,Transient cerebral ischemia,Condition,SNOMED,Disorder,S,266257000,,exclusions
+45772786,Cerebral infarction due to embolism of middle cerebral artery,Condition,SNOMED,Disorder,S,705128004,,exclusions
+4220313,"Primary degenerative dementia of the Alzheimer type, senile onset",Condition,SNOMED,Disorder,S,416975007,,exclusions
+45767658,Cerebral infarction due to thrombosis of middle cerebral artery,Condition,SNOMED,Disorder,S,705130002,,exclusions
+43530727,Spontaneous cerebral hemorrhage,Condition,SNOMED,Disorder,S,291571000119106,,exclusions
+43530674,Spontaneous cerebellar hemorrhage,Condition,SNOMED,Disorder,S,142851000119103,,exclusions
+4108356,Cerebral infarction due to embolism of cerebral arteries,Condition,SNOMED,Disorder,S,195190007,,exclusions
+374888,Dementia associated with another disease,Condition,SNOMED,Disorder,S,191519005,,exclusions
+4310996,Ischemic stroke,Condition,SNOMED,Disorder,S,422504002,,exclusions
+373503,Transient cerebral ischemia,Condition,SNOMED,Disorder,S,266257000,,exclusions
+4182210,Dementia,Condition,SNOMED,Disorder,S,52448006,,exclusions
+4009705,Age-related cognitive decline,Condition,SNOMED,Clinical Finding,S,102891000,,exclusions
+443588,Malignant neoplasm of brain,Condition,SNOMED,Disorder,S,428061005,,exclusions
+439847,Intracranial hemorrhage,Condition,SNOMED,Disorder,S,1386000,,exclusions
